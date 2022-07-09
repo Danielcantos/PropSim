@@ -5,4 +5,4 @@ PropSim simulates the operation of a solid propellant rocket motor by discretizi
 
 DISCLAIMER: HEAVY WIP, Personal project. Functionality IS NOT guaranteed.
 
-This empty directory will be home to a Python port of the original simulator, upon which hopefully new releases will be developed.
+This empty directory will be home to a Python port of the original simulator, upon which hopefully new releases will be built.
