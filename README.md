@@ -5,7 +5,9 @@ PropSim simulates the operation of a solid propellant rocket motor by discretizi
 
 DISCLAIMER: HEAVY WIP, Personal project. Functionality IS NOT guaranteed.
 
-Installation instructions:
+THE LAST FUNCTIONAL VERSION IS V2.
+
+Installation instructions for V2:
 - Download the .exe installer. This is an app created via Matlab app designer so this executable will install both the program itself and the Matlab Runtime libraries necessary for its correct operation.
 - Install as any other application. A Matlab install window will guide you through the process.
 - IMPORTANT: Use the default installation directory for PropSim. That is C:\Program Files\PropSIM. Using any other directory will BREAK the program. A shortcut can be created to execute the program. Work is being done to solve these problems.
